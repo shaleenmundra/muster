@@ -1,0 +1,28 @@
+{
+  "name": "muster-js",
+  "version": "0.1.0",
+  "description": "A small library to work with arrays in Javascript.",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "mocha ./lib/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horinlabs/muster-js.git"
+  },
+  "keywords": [
+    "collection",
+    "muster"
+  ],
+  "author": "Danilo Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/horinlabs/muster-js/issues"
+  },
+  "homepage": "https://github.com/horinlabs/muster-js#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jsdoc": "^3.4.1",
+    "mocha": "^3.0.2"
+  }
+}
